@@ -8,4 +8,5 @@ On top of the variables supported by the [base image](https://hub.docker.com/r/a
 
 The images gets the various Confluence logs redirected to stdout for easier logging with Kubernetes, etc
 
+
 Maitained by the ACP team
